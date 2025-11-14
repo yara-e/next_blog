@@ -1,6 +1,6 @@
 # Blog Website – Next.js + MongoDB
 
-**Live Demo:** [View](https://your-vercel-app.vercel.app)
+**Live Demo:** [View](https://next-blog-lzgx.vercel.app/)
 
 A full-stack **blog platform** where users can register, log in, create posts, edit them, delete them, search, like, and comment.  
 The website is fully responsive and includes **infinite scroll** for a smooth reading experience.
