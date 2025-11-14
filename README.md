@@ -1,4 +1,4 @@
-# Blog Website – Next.js + MongoDB
+# Qoutly Website – Next.js + MongoDB
 
 **Live Demo:** [View](https://next-blog-lzgx.vercel.app/)
 
@@ -33,12 +33,12 @@ The website is fully responsive and includes **infinite scroll** for a smooth re
 | Layer          | Technology          |
 |----------------|----------------------|
 | Frontend       | Next.js, Tailwind CSS |
-| Backend        | Next.js API Routes |
+| Backend        | NNext.js server-side functions |
 | Database       | MongoDB |
 | Authentication | JWT |
 | Validation     | Zod |
 | Images         | ImageKit (cloud storage) |
-| Infinite Scroll | API pagination + custom hook |
+| Infinite Scroll | API pagination + Intersection Observer |
 
 ---
 
