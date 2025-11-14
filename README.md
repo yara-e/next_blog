@@ -28,7 +28,7 @@ The website is fully responsive and includes **infinite scroll** for a smooth re
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer          | Technology          |
 |----------------|----------------------|
