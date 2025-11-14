@@ -1,4 +1,4 @@
-# 📌 Blog Website – Next.js + MongoDB
+# Blog Website – Next.js + MongoDB
 
 **Live Demo:** [View](https://your-vercel-app.vercel.app)
 
